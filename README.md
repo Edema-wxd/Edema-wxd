@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Edema-wxd
-- 👀 I’m interested in fullstack design and task automation
+- 👀 I’m interested in fullstack development and task automation
 - 🌱 I’m currently learning javascript, React and Node
 - 💞️ I’m looking to collaborate on web development and small projects
 - 📫 Send me a mail at woodsedema@gmail.com
